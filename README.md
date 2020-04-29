@@ -9,9 +9,10 @@
    * IOTA
   * Finance
     * Global Interest Rates
+    * Oracles as Market Makers
   * DeFi
     * FutureSwap Review
     * Synthetix Review
     * MakerDAO Review
     * The Problem with "No Slippage"
-    * MKR Option Problem (If ETH drops >33% in 1 hour, you can generate infinite free money)
+    * Oracle Exchanges as Short-Term OTM Options
