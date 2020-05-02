@@ -10,7 +10,7 @@ Assume there are two lending opportunities:
 Microfinance Loan
  - Currency:      USD
  - Interest Rate: 10%
- - Default Rate:  5%
+ - Default Rate:  1%
 ```
 
 ```
