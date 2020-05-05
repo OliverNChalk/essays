@@ -8,6 +8,7 @@
    * AVA
    * IOTA
    * Bitcoin's Time Consensus
+   * Crpyto Networks: Winner Takes All
   * Economics
     * Proposed Solution to Bitcoin's Broken Issuance
     * Transaction Fee Sustainability
