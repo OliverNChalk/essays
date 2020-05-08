@@ -20,6 +20,7 @@
     * The Option Problem
     * Oracles as Market Makers
   * DeFi
+    * MakerDAO will die without Centralized assets - MakerDAO as a protocol for loans not a stablecoin (synths will be a race to zero)
     * FutureSwap Review
     * Synthetix Review
     * MakerDAO Review
