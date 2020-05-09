@@ -43,6 +43,7 @@ In Synthetix and FutureSwap there is a grace period after you perform a trade in
 For your average speculative trader, these are not major issues but they could pose barriers to the adoption of these derivatives by automated and more sophisticated trading strategies.
 
 ##### MakerDAO
+<a name="maker-dao-option"></a>
 MakerDAO only uses its oracle for collateralization purposes, instead of P&L calculations. This means that with a collateralization ratio of 150%, the price would need to drop 33% for arbitrageurs to be able to exploit the oracle for profit. However, as we know, options will have a price, no matter how far out of the money they are. As such, to limit the risk and cost of writing this option every hour, MakerDAO implements a `debt_ceiling` parameter, that provides a hard-cap (`debt_ceiling - current_debt`) on how much new debt can be minted at any one time.
 
 If one wanted to price the cost Maker's 1 hour delayed oracle imposes on MKR holders, they could work out the price of writing the following option:
