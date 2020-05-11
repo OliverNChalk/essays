@@ -1,3 +1,5 @@
+### NEEDS REVISING
+
 # Interest Rates & Staking
 
 In any asset that is freely traded in spot markets, there should be no divergence between the yield of that asset and any other asset. The reasoning behind this is that it is expected that any differences in yield would be arbitraged and the exchange rate risk would be hedged.
