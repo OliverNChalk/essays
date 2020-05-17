@@ -51,6 +51,11 @@ So now that we have a fungible unit of account for lenders to take loans in, all
 
 $MKR holders need to be acutely aware of the risks they are underwriting in the system. They are incentivized to maximize $DAI creation and minimize collateral blow-up, such that the system burns more $MKR in stability fees than it issues in bailing out bad debt.
 
+### Are DAI Holders Necessary?
+MakerDAO is 100% functional with **zero natural DAI holders**, that is there is technically zero need for any demand for DAI's stablecoin. Maker has the DSR which acts as a global funding rate that CDP holders (or MKR holders) pay DAI holders in exchange for DAI holders propping up the price of DAI. Rational actors will purchase DAI @ <= $1USD, as long as the DSR covers their cost of capital. And as we move into a negative interest rate world, the cost of capital is drastically going down.
+
+So MKR holders need to focus on correctly pricing risk in their system while leveraging the DSR to ensure there is enough incentive for rational actors to absorb newly minted DAI. In fact, it is better to think of natural DAI stablecoin holders as simply saving MKR holders some money they would have otherwise needed to pay to rational actors. So it is definitely nice to have this saving in the form of a lower DSR, however, it is absolutely not critical to the health and growth of the Maker system.
+
 ### Strategy & Misc
 In my opinion, for every collateral application, I would want to see a good explanation NOT to list it at all. Every collateral that has a non-zero value can be listed with the appropriate parameters (risk fee & debt ceiling). Despite this, Multi-Collateral DAI only has 4 types of collateral in its system. What's even worse, is the most recently added collateral (WBTC) started with a debt ceiling of 10M DAI, when the token itself only had a market capitalization of 10M DAI. Thankfully, the community is now discussing reducing the debt ceiling but this incident showed much of the community still does not properly understand the system they are attempting to govern (or the [reasoning](../Finance/TheOptionProblem.md#maker-dao-option) behind certain parameters).
 
